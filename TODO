@@ -1,0 +1,15 @@
+year 2000K testing?  :)
+
+API:
+  logic => physical interval
+
+hook into Time::HiRes?
+
+better defaults
+
+Time::Adjustible
+  inc/dec the speed of time
+  restart time at a specific time
+
+Time::DayRelative
+  resets to zero at midnight
